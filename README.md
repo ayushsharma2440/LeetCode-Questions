@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0189-rotate-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
