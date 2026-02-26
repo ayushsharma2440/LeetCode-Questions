@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0704-binary-search) |
 ## Divide and Conquer
