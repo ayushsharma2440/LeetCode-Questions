@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0075-sort-colors) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
