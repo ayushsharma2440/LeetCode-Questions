@@ -102,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0100-same-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
