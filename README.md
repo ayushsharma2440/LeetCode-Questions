@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0258-add-digits) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
