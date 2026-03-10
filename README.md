@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
