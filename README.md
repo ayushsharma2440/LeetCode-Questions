@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2974-minimum-number-game](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/2974-minimum-number-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0657-robot-return-to-origin) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2974-minimum-number-game](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0912-sort-an-array) |
+| [2974-minimum-number-game](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0912-sort-an-array) |
+| [2974-minimum-number-game](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/2974-minimum-number-game) |
 ## Merge Sort
 |  |
 | ------- |
