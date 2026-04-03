@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0078-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
