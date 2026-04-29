@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0435-non-overlapping-intervals](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 ## Simulation
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0229-majority-element-ii) |
+| [0435-non-overlapping-intervals](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [2974-minimum-number-game](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/2974-minimum-number-game) |
 ## Hash Table
@@ -241,5 +244,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0860-lemonade-change](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
