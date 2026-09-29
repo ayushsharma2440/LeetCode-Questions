@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0704-binary-search) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [2974-minimum-number-game](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/2974-minimum-number-game) |
@@ -114,12 +117,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Matrix
 |  |
@@ -180,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/1046-last-stone-weight) |
 | [2974-minimum-number-game](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/2974-minimum-number-game) |
@@ -190,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -249,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0860-lemonade-change](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0860-lemonade-change) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayushsharma2440/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
